@@ -10,7 +10,7 @@
      - medical record  [Link](https://github.com/Nxpze/essencial-project1/blob/cfdf850175c101e5c9596831aed0eed8cef510d0/all%20model/medical_records.csv)
      - bills  [Link](https://github.com/Nxpze/essencial-project1/blob/cfdf850175c101e5c9596831aed0eed8cef510d0/all%20model/patients_bills.csv)
   - ไฟล์ SQLite 1 ไฟล์ คือ
-    - Clinic_database [Link]()
+    - Clinic_database [Link](https://github.com/Nxpze/essencial-project1/blob/4d1a9940ea2581283a6988c3d8994e4719644676/all%20model/Clinic_database.db)
 ### สมาชิกและบทบาทหน้าที่
   1. นพรัตน์ ศรีวงษา  683020249-4  (ฝ่ายวิเคราะห์ และสรุปผลข้อมูล)
   2. ประทานพร อุปมาโท  683020252-5  (ฝ่ายพัฒนาระบบ Source Code)
