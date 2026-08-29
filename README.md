@@ -4,10 +4,13 @@
   - Flowchart การทำงานของระบบคลีนิค [Link](https://github.com/Nxpze/essencial-project1/blob/00d05d36cb10eb73b455f38b4bc562bf96b3504d/Clinic_Python.ipynb)
   - Crow's foot Diagram  [Link](https://github.com/Nxpze/essencial-project1/blob/00d05d36cb10eb73b455f38b4bc562bf96b3504d/Patient%20Billing%20and%20Medical-2026-08-21-155727.pdf)
   - Source Code Clinic System  [Link](https://github.com/Nxpze/essencial-project1/blob/00d05d36cb10eb73b455f38b4bc562bf96b3504d/Patient%20Case%20Triage%20Flow%20lastest.pdf)
-  - ไฟล์ CSV 3 อย่างคือ
-     - patient  [Link](https://github.com/Nxpze/essencial-project1/blob/00d05d36cb10eb73b455f38b4bc562bf96b3504d/patients_model.csv)
-     - medical record
-     - bills
+  - ไฟล์แสดงการจำลองข้อมูล(CSV SQLite), วิเคราะห์ข้อมูลด้วย Pandas [Link]()
+  - ไฟล์ CSV 3 ไฟล์ คือ
+     - patient  [Link](https://github.com/Nxpze/essencial-project1/blob/cfdf850175c101e5c9596831aed0eed8cef510d0/all%20model/patients_model.csv)
+     - medical record  [Link](https://github.com/Nxpze/essencial-project1/blob/cfdf850175c101e5c9596831aed0eed8cef510d0/all%20model/medical_records.csv)
+     - bills  [Link](https://github.com/Nxpze/essencial-project1/blob/cfdf850175c101e5c9596831aed0eed8cef510d0/all%20model/patients_bills.csv)
+  - ไฟล์ SQLite 1 ไฟล์ คือ
+    - Clinic_database [Link]()
 ### สมาชิกและบทบาทหน้าที่
   1. นพรัตน์ ศรีวงษา  683020249-4  (ฝ่ายวิเคราะห์ และสรุปผลข้อมูล)
   2. ประทานพร อุปมาโท  683020252-5  (ฝ่ายพัฒนาระบบ Source Code)
