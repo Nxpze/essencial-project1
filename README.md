@@ -2,7 +2,7 @@
 ## โปรเจคนี้เป็นส่วนหนึ่งในรายวิชา SC612104 Essencial Data Science
 ### REPO นี้ประกอบไปด้วย
   - Flowchart การทำงานของระบบคลีนิค [Link](https://github.com/Nxpze/essencial-project1/blob/00d05d36cb10eb73b455f38b4bc562bf96b3504d/Clinic_Python.ipynb)
-  - Crow's foot Diagram  [Link](https://github.com/Nxpze/essencial-project1/blob/00d05d36cb10eb73b455f38b4bc562bf96b3504d/Patient%20Billing%20and%20Medical-2026-08-21-155727.pdf)
+  - Crow's foot Diagram  [Link](https://github.com/Nxpze/essencial-project1/blob/2354cf9e10f28a9b6d385d6eb035b2687d1159b9/Crow's%20foot%20Clinic%20Diagram.pdf)
   - Source Code Clinic System  [Link](https://github.com/Nxpze/essencial-project1/blob/00d05d36cb10eb73b455f38b4bc562bf96b3504d/Patient%20Case%20Triage%20Flow%20lastest.pdf)
   - ไฟล์แสดงการจำลองข้อมูล(CSV SQLite), วิเคราะห์ข้อมูลด้วย Pandas [Link]()
   - ไฟล์ CSV 3 ไฟล์ คือ
